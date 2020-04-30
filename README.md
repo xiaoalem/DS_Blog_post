@@ -17,7 +17,7 @@ Model evaluation.ipynb           #code for model validation
 * `matplotlib`
 * `seaborn`
 * `collections`
-* `sklearn'
+* `sklearn`
 
 # Summary of results
 * Capitol Hill, Downtown, Central Area, Queen Anne and Ballard are the top 5 neighbourhoods have the most Airbnb in Seattle
